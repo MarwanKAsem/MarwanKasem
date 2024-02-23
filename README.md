@@ -4,8 +4,8 @@ Hello I'm Marwan Kasem an NLP Student focusing in learning the machine to unders
 
 You can find me at :
 
-Linkidin: https://www.linkedin.com/in/marwan-kasem-447009221/
+Linkidin: [https://www.linkedin.com/in/marwan-kasem-447009221/].(https://www.linkedin.com/in/marwan-kasem-447009221/)
 
-GITHUB: [https://github.com/MarwanKAsem](https://marwankasem.github.io)
+GITHUB: [https://github.com/MarwanKAsem].(https://marwankasem.github.io)
 
-facebook: https://web.facebook.com/mrawoan.mohamed/
+facebook: [https://web.facebook.com/mrawoan.mohamed/].(https://web.facebook.com/mrawoan.mohamed/)
