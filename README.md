@@ -32,15 +32,25 @@
   <a href="https://www.linkedin.com/in/marwan-kasem-447009221/">
     <img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
   <a href="https://github.com/MarwanKAsem">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  
+  <a href="https://dev.to/marwankasem">
+    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  
+  <a href="https://www.upwork.com/freelancers/~01a97aef1b5b452c03?viewMode=1">
+    <img src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  
   <a href="https://huggingface.co/Marwan-Kasem">
     <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
-    
+  </a>
+  
   <a href="https://www.kaggle.com/marwankasem">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-
   </a>
 </p>
 
