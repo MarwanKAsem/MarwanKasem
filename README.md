@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=NLP+Engineer+%F0%9F%94%A5;Fall+seven+times,+stand+up+eight....&center=true&width=440&height=45&color=B69495&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=NLP+Engineer+%F0%9F%94%A5;Fall+seven+times,+stand+up+eight....&center=true&width=440&height=45&color=00B8CA&vCenter=true&size=22">
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 
 
-## 🌐 Find Me Online
+## 🌐 Wanna Find Me ? 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marwan-kasem-447009221/">
@@ -57,7 +57,7 @@
 ---
 
 <details>
-<summary>🛠️ MY Technical Stack</summary>
+<summary> My Magical Stack 🔮 </summary>
 
 
 <p align="center">
@@ -87,7 +87,7 @@
 </details>
 
 <details>
-<summary>📊 MY GitHub Stats</summary>
+<summary> Commits from the Void 🌌</summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarwanKAsem&show_icons=true&theme=radical" alt="Marwan's GitHub stats">
