@@ -92,5 +92,5 @@
 
 ---
 
-*“Bringing language and machines closer, one project at a time.”*
+*“He sees failure not as an end — but as a teacher whispering, ‘you’re almost there..”*
 
