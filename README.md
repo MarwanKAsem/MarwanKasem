@@ -1,10 +1,5 @@
 <h3 align="center">Hi there 👋, Welcome to my GitHub!</h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9253ae1a-d437-45c6-9724-319a2b7e741e"
-       width="100%" alt="Doge Samurai" />
-</p>
-
 ---
 
 <p align="center">
@@ -52,7 +47,8 @@
 ---
 
 <details>
-<summary>🛠️ Tech Stack</summary>
+<summary>🛠️ MY Technical Stack</summary>
+
 
 <p align="center">
 <!-- Programming & Tools -->
@@ -81,7 +77,7 @@
 </details>
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>📊 MY GitHub Stats</summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarwanKAsem&show_icons=true&theme=radical" alt="Marwan's GitHub stats">
@@ -89,14 +85,10 @@
 
 </details>
 
-
----
-
-## 💬 Let's Connect!
-
-- 📬 [LinkedIn](https://www.linkedin.com/in/marwan-kasem-447009221/)
-- 📂 [GitHub](https://github.com/MarwanKAsem)
-- 📘 [Facebook](https://web.facebook.com/mrawoan.mohamed)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9253ae1a-d437-45c6-9724-319a2b7e741e"
+       width="100%" alt="Doge Samurai" />
+</p>
 
 ---
 
