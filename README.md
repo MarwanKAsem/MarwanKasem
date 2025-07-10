@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=NLP+Engineer+%F0%9F%94%A5;Fall+seven+times,+stand+up+eight....&center=true&width=440&height=45&color=00B8CA&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=NLP+Developer+%F0%9F%94%A5;Fall+seven+times,+stand+up+eight....&center=true&width=440&height=45&color=00B8CA&vCenter=true&size=22">
   </a>
 </p>
 
@@ -15,7 +15,9 @@
 </p>
 
 <h3 align="center">
-  ENG. MARWAN KASEM 
+   Greetings Digital explorers this is : 
+        
+      MARWAN KASEM 
 </h3>
 
 <p align="center">
