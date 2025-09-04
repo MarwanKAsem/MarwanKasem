@@ -98,8 +98,6 @@
 </details>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9253ae1a-d437-45c6-9724-319a2b7e741e"
-       width="100%" alt="Doge Samurai" />
 </p>
 
 ---
