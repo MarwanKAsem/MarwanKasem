@@ -21,9 +21,9 @@
 </h3>
 
 <p align="center">
-  I'm a Phonetics & Linguistics student with a passion for <strong>Natural Language Processing (NLP)</strong>.  
+  I'm a Phonetics & Linguistics Graduate with a Proficional Working Experience in <strong>Natural Language Processing (NLP)</strong>.  
   I build tools that help machines understand language, especially in Arabic.  
-  Outside academics, I'm a creative soul — crafting videos, designing visuals, and exploring the blend of language and tech.
+  I'm a creative soul — crafting videos, designing visuals, and exploring the blend of language and tech.
 </p>
 
 
