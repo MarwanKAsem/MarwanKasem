@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=NLP+Developer+%F0%9F%94%A5;Fall+seven+times,+stand+up+eight....&center=true&width=440&height=45&color=00B8CA&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Developer+%F0%9F%94%A5;Fall+seven+times,+stand+up+eight....&center=true&width=440&height=45&color=00B8CA&vCenter=true&size=22">
   </a>
 </p>
 
@@ -21,8 +21,7 @@
 </h3>
 
 <p align="center">
-  I'm a Phonetics & Linguistics Graduate with a Proficional Working Experience in <strong>Natural Language Processing (NLP)</strong>.  
-  I build tools that help machines understand language, especially in Arabic.  
+  I'm a Phonetics & Linguistics Graduate with a Proficional Working Experience in <strong> AI Speciality in Natural Language Processing (NLP)</strong>.  
   I'm a creative soul — crafting videos, designing visuals, and exploring the blend of language and tech.
 </p>
 
